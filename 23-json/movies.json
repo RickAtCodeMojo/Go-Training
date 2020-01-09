@@ -1,0 +1,402 @@
+[
+    {
+        "Rank": "1",
+        "Title": "Avatar",
+        "Studio": "Fox",
+        "Worldwide": "2788",
+        "Domestic": "760.5",
+        "Year": "2009"
+    },
+    {
+        "Rank": "2",
+        "Title": "Titanic",
+        "Studio": "Par.",
+        "Worldwide": "2187.5",
+        "Domestic": "659.4",
+        "Year": "1997"
+    },
+    {
+        "Rank": "3",
+        "Title": "Star Wars: The Force Awakens",
+        "Studio": "BV",
+        "Worldwide": "2068.2",
+        "Domestic": "936.7",
+        "Year": "2015"
+    },
+    {
+        "Rank": "4",
+        "Title": "Jurassic World",
+        "Studio": "Uni.",
+        "Worldwide": "1671.7",
+        "Domestic": "652.3",
+        "Year": "2015"
+    },
+    {
+        "Rank": "5",
+        "Title": "Marvel's The Avengers",
+        "Studio": "BV",
+        "Worldwide": "1518.8",
+        "Domestic": "623.4",
+        "Year": "2012"
+    },
+    {
+        "Rank": "6",
+        "Title": "Furious 7",
+        "Studio": "Uni.",
+        "Worldwide": "1516",
+        "Domestic": "353",
+        "Year": "2015"
+    },
+    {
+        "Rank": "7",
+        "Title": "Avengers: Age of Ultron",
+        "Studio": "BV",
+        "Worldwide": "1405.4",
+        "Domestic": "459",
+        "Year": "2015"
+    },
+    {
+        "Rank": "8",
+        "Title": "Harry Potter and the Deathly Hallows Part 2",
+        "Studio": "WB",
+        "Worldwide": "1341.5",
+        "Domestic": "381",
+        "Year": "2011"
+    },
+    {
+        "Rank": "9",
+        "Title": "Star Wars: The Last Jedi",
+        "Studio": "BV",
+        "Worldwide": "1332.8",
+        "Domestic": "620.2",
+        "Year": "2017"
+    },
+    {
+        "Rank": "10",
+        "Title": "Black Panther",
+        "Studio": "BV",
+        "Worldwide": "1331.3",
+        "Domestic": "688",
+        "Year": "2018"
+    },
+    {
+        "Rank": "11",
+        "Title": "Frozen",
+        "Studio": "BV",
+        "Worldwide": "1276.5",
+        "Domestic": "400.7",
+        "Year": "2013"
+    },
+    {
+        "Rank": "12",
+        "Title": "Beauty and the Beast (2017)",
+        "Studio": "BV",
+        "Worldwide": "1263.5",
+        "Domestic": "504",
+        "Year": "2017"
+    },
+    {
+        "Rank": "13",
+        "Title": "The Fate of the Furious",
+        "Studio": "Uni.",
+        "Worldwide": "1236",
+        "Domestic": "226",
+        "Year": "2017"
+    },
+    {
+        "Rank": "14",
+        "Title": "Iron Man 3",
+        "Studio": "BV",
+        "Worldwide": "1214.8",
+        "Domestic": "409",
+        "Year": "2013"
+    },
+    {
+        "Rank": "15",
+        "Title": "Minions",
+        "Studio": "Uni.",
+        "Worldwide": "1159.4",
+        "Domestic": "336",
+        "Year": "2015"
+    },
+    {
+        "Rank": "16",
+        "Title": "Captain America: Civil War",
+        "Studio": "BV",
+        "Worldwide": "1153.3",
+        "Domestic": "408.1",
+        "Year": "2016"
+    },
+    {
+        "Rank": "17",
+        "Title": "Transformers: Dark of the Moon",
+        "Studio": "P/DW",
+        "Worldwide": "1123.8",
+        "Domestic": "352.4",
+        "Year": "2011"
+    },
+    {
+        "Rank": "18",
+        "Title": "The Lord of the Rings: The Return of the King",
+        "Studio": "NL",
+        "Worldwide": "1119.9",
+        "Domestic": "377.8",
+        "Year": "2003"
+    },
+    {
+        "Rank": "19",
+        "Title": "Skyfall",
+        "Studio": "Sony",
+        "Worldwide": "1108.6",
+        "Domestic": "304.4",
+        "Year": "2012"
+    },
+    {
+        "Rank": "20",
+        "Title": "Transformers: Age of Extinction",
+        "Studio": "Par.",
+        "Worldwide": "1104.1",
+        "Domestic": "245.4",
+        "Year": "2014"
+    },
+    {
+        "Rank": "21",
+        "Title": "The Dark Knight Rises",
+        "Studio": "WB",
+        "Worldwide": "1084.9",
+        "Domestic": "448.1",
+        "Year": "2012"
+    },
+    {
+        "Rank": "22",
+        "Title": "Toy Story 3",
+        "Studio": "BV",
+        "Worldwide": "1067",
+        "Domestic": "415",
+        "Year": "2010"
+    },
+    {
+        "Rank": "23",
+        "Title": "Pirates of the Caribbean: Dead Man's Chest",
+        "Studio": "BV",
+        "Worldwide": "1066.2",
+        "Domestic": "423.3",
+        "Year": "2006"
+    },
+    {
+        "Rank": "24",
+        "Title": "Rogue One: A Star Wars Story",
+        "Studio": "BV",
+        "Worldwide": "1056.1",
+        "Domestic": "532.2",
+        "Year": "2016"
+    },
+    {
+        "Rank": "25",
+        "Title": "Pirates of the Caribbean: On Stranger Tides",
+        "Studio": "BV",
+        "Worldwide": "1045.7",
+        "Domestic": "241.1",
+        "Year": "2011"
+    },
+    {
+        "Rank": "26",
+        "Title": "Despicable Me 3",
+        "Studio": "Uni.",
+        "Worldwide": "1034.8",
+        "Domestic": "264.6",
+        "Year": "2017"
+    },
+    {
+        "Rank": "27",
+        "Title": "Jurassic Park",
+        "Studio": "Uni.",
+        "Worldwide": "1029.2",
+        "Domestic": "402.5",
+        "Year": "1993"
+    },
+    {
+        "Rank": "28",
+        "Title": "Finding Dory",
+        "Studio": "BV",
+        "Worldwide": "1028.6",
+        "Domestic": "486.3",
+        "Year": "2016"
+    },
+    {
+        "Rank": "29",
+        "Title": "Star Wars: Episode I - The Phantom Menace",
+        "Studio": "Fox",
+        "Worldwide": "1027",
+        "Domestic": "474.5",
+        "Year": "1999"
+    },
+    {
+        "Rank": "30",
+        "Title": "Alice in Wonderland (2010)",
+        "Studio": "BV",
+        "Worldwide": "1025.5",
+        "Domestic": "334.2",
+        "Year": "2010"
+    },
+    {
+        "Rank": "31",
+        "Title": "Zootopia",
+        "Studio": "BV",
+        "Worldwide": "1023.8",
+        "Domestic": "341.3",
+        "Year": "2016"
+    },
+    {
+        "Rank": "32",
+        "Title": "The Hobbit: An Unexpected Journey",
+        "Studio": "WB (NL)",
+        "Worldwide": "1021.1",
+        "Domestic": "303",
+        "Year": "2012"
+    },
+    {
+        "Rank": "33",
+        "Title": "The Dark Knight",
+        "Studio": "WB",
+        "Worldwide": "1004.6",
+        "Domestic": "534.9",
+        "Year": "2008"
+    },
+    {
+        "Rank": "34",
+        "Title": "Harry Potter and the Sorcerer's Stone",
+        "Studio": "WB",
+        "Worldwide": "974.8",
+        "Domestic": "317.6",
+        "Year": "2001"
+    },
+    {
+        "Rank": "35",
+        "Title": "Despicable Me 2",
+        "Studio": "Uni.",
+        "Worldwide": "970.8",
+        "Domestic": "368.1",
+        "Year": "2013"
+    },
+    {
+        "Rank": "36",
+        "Title": "The Lion King",
+        "Studio": "BV",
+        "Worldwide": "968.5",
+        "Domestic": "422.8",
+        "Year": "1994"
+    },
+    {
+        "Rank": "37",
+        "Title": "The Jungle Book (2016)",
+        "Studio": "BV",
+        "Worldwide": "966.6",
+        "Domestic": "364",
+        "Year": "2016"
+    },
+    {
+        "Rank": "38",
+        "Title": "Pirates of the Caribbean: At World's End",
+        "Studio": "BV",
+        "Worldwide": "963.4",
+        "Domestic": "309.4",
+        "Year": "2007"
+    },
+    {
+        "Rank": "39",
+        "Title": "Harry Potter and the Deathly Hallows Part 1",
+        "Studio": "WB",
+        "Worldwide": "960.3",
+        "Domestic": "296",
+        "Year": "2010"
+    },
+    {
+        "Rank": "40",
+        "Title": "The Hobbit: The Desolation of Smaug",
+        "Studio": "WB (NL)",
+        "Worldwide": "958.4",
+        "Domestic": "258.4",
+        "Year": "2013"
+    },
+    {
+        "Rank": "41",
+        "Title": "Jumanji: Welcome to the Jungle",
+        "Studio": "Sony",
+        "Worldwide": "956.7",
+        "Domestic": "404.2",
+        "Year": "2017"
+    },
+    {
+        "Rank": "42",
+        "Title": "The Hobbit: The Battle of the Five Armies",
+        "Studio": "WB (NL)",
+        "Worldwide": "956",
+        "Domestic": "255.1",
+        "Year": "2014"
+    },
+    {
+        "Rank": "43",
+        "Title": "Finding Nemo",
+        "Studio": "BV",
+        "Worldwide": "940.3",
+        "Domestic": "380.8",
+        "Year": "2003"
+    },
+    {
+        "Rank": "44",
+        "Title": "Harry Potter and the Order of the Phoenix",
+        "Studio": "WB",
+        "Worldwide": "939.9",
+        "Domestic": "292",
+        "Year": "2007"
+    },
+    {
+        "Rank": "45",
+        "Title": "Harry Potter and the Half-Blood Prince",
+        "Studio": "WB",
+        "Worldwide": "934.4",
+        "Domestic": "302",
+        "Year": "2009"
+    },
+    {
+        "Rank": "46",
+        "Title": "The Lord of the Rings: The Two Towers",
+        "Studio": "NL",
+        "Worldwide": "926",
+        "Domestic": "342.6",
+        "Year": "2002"
+    },
+    {
+        "Rank": "47",
+        "Title": "Shrek 2",
+        "Studio": "DW",
+        "Worldwide": "919.8",
+        "Domestic": "441.2",
+        "Year": "2004"
+    },
+    {
+        "Rank": "48",
+        "Title": "Harry Potter and the Goblet of Fire",
+        "Studio": "WB",
+        "Worldwide": "896.9",
+        "Domestic": "290",
+        "Year": "2005"
+    },
+    {
+        "Rank": "49",
+        "Title": "Spider-Man 3",
+        "Studio": "Sony",
+        "Worldwide": "890.9",
+        "Domestic": "336.5",
+        "Year": "2007"
+    },
+    {
+        "Rank": "50",
+        "Title": "Ice Age: Dawn of the Dinosaurs",
+        "Studio": "Fox",
+        "Worldwide": "886.7",
+        "Domestic": "196.6",
+        "Year": "2009"
+    }
+]

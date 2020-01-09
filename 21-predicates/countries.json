@@ -1,0 +1,1484 @@
+[
+    {
+        "country": "Afghanistan",
+        "Alpha-2": "AF",
+        "Alpha-3": "AFG",
+        "UN-M49-Numeric": "4"
+    },
+    {
+        "country": "Aland Islands",
+        "Alpha-2": "AX",
+        "Alpha-3": "ALA",
+        "UN-M49-Numeric": "248"
+    },
+    {
+        "country": "Albania",
+        "Alpha-2": "AL",
+        "Alpha-3": "ALB",
+        "UN-M49-Numeric": "8"
+    },
+    {
+        "country": "Algeria",
+        "Alpha-2": "DZ",
+        "Alpha-3": "DZA",
+        "UN-M49-Numeric": "12"
+    },
+    {
+        "country": "American Samoa",
+        "Alpha-2": "AS",
+        "Alpha-3": "ASM",
+        "UN-M49-Numeric": "16"
+    },
+    {
+        "country": "Andorra",
+        "Alpha-2": "AD",
+        "Alpha-3": "AND",
+        "UN-M49-Numeric": "20"
+    },
+    {
+        "country": "Angola",
+        "Alpha-2": "AO",
+        "Alpha-3": "AGO",
+        "UN-M49-Numeric": "24"
+    },
+    {
+        "country": "Anguilla",
+        "Alpha-2": "AI",
+        "Alpha-3": "AIA",
+        "UN-M49-Numeric": "660"
+    },
+    {
+        "country": "Antarctica",
+        "Alpha-2": "AQ",
+        "Alpha-3": "ATA",
+        "UN-M49-Numeric": "10"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "Alpha-2": "AG",
+        "Alpha-3": "ATG",
+        "UN-M49-Numeric": "28"
+    },
+    {
+        "country": "Argentina",
+        "Alpha-2": "AR",
+        "Alpha-3": "ARG",
+        "UN-M49-Numeric": "32"
+    },
+    {
+        "country": "Armenia",
+        "Alpha-2": "AM",
+        "Alpha-3": "ARM",
+        "UN-M49-Numeric": "51"
+    },
+    {
+        "country": "Aruba",
+        "Alpha-2": "AW",
+        "Alpha-3": "ABW",
+        "UN-M49-Numeric": "533"
+    },
+    {
+        "country": "Australia",
+        "Alpha-2": "AU",
+        "Alpha-3": "AUS",
+        "UN-M49-Numeric": "36"
+    },
+    {
+        "country": "Austria",
+        "Alpha-2": "AT",
+        "Alpha-3": "AUT",
+        "UN-M49-Numeric": "40"
+    },
+    {
+        "country": "Azerbaijan",
+        "Alpha-2": "AZ",
+        "Alpha-3": "AZE",
+        "UN-M49-Numeric": "31"
+    },
+    {
+        "country": "Bahamas",
+        "Alpha-2": "BS",
+        "Alpha-3": "BHS",
+        "UN-M49-Numeric": "44"
+    },
+    {
+        "country": "Bahrain",
+        "Alpha-2": "BH",
+        "Alpha-3": "BHR",
+        "UN-M49-Numeric": "48"
+    },
+    {
+        "country": "Bangladesh",
+        "Alpha-2": "BD",
+        "Alpha-3": "BGD",
+        "UN-M49-Numeric": "50"
+    },
+    {
+        "country": "Barbados",
+        "Alpha-2": "BB",
+        "Alpha-3": "BRB",
+        "UN-M49-Numeric": "52"
+    },
+    {
+        "country": "Belarus",
+        "Alpha-2": "BY",
+        "Alpha-3": "BLR",
+        "UN-M49-Numeric": "112"
+    },
+    {
+        "country": "Belgium",
+        "Alpha-2": "BE",
+        "Alpha-3": "BEL",
+        "UN-M49-Numeric": "56"
+    },
+    {
+        "country": "Belize",
+        "Alpha-2": "BZ",
+        "Alpha-3": "BLZ",
+        "UN-M49-Numeric": "84"
+    },
+    {
+        "country": "Benin",
+        "Alpha-2": "BJ",
+        "Alpha-3": "BEN",
+        "UN-M49-Numeric": "204"
+    },
+    {
+        "country": "Bermuda",
+        "Alpha-2": "BM",
+        "Alpha-3": "BMU",
+        "UN-M49-Numeric": "60"
+    },
+    {
+        "country": "Bhutan",
+        "Alpha-2": "BT",
+        "Alpha-3": "BTN",
+        "UN-M49-Numeric": "64"
+    },
+    {
+        "country": "Bolivia",
+        "Alpha-2": "BO",
+        "Alpha-3": "BOL",
+        "UN-M49-Numeric": "68"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "Alpha-2": "BA",
+        "Alpha-3": "BIH",
+        "UN-M49-Numeric": "70"
+    },
+    {
+        "country": "Botswana",
+        "Alpha-2": "BW",
+        "Alpha-3": "BWA",
+        "UN-M49-Numeric": "72"
+    },
+    {
+        "country": "Bouvet Island",
+        "Alpha-2": "BV",
+        "Alpha-3": "BVT",
+        "UN-M49-Numeric": "74"
+    },
+    {
+        "country": "Brazil",
+        "Alpha-2": "BR",
+        "Alpha-3": "BRA",
+        "UN-M49-Numeric": "76"
+    },
+    {
+        "country": "British Virgin Islands",
+        "Alpha-2": "VG",
+        "Alpha-3": "VGB",
+        "UN-M49-Numeric": "92"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "Alpha-2": "IO",
+        "Alpha-3": "IOT",
+        "UN-M49-Numeric": "86"
+    },
+    {
+        "country": "Brunei Darussalam",
+        "Alpha-2": "BN",
+        "Alpha-3": "BRN",
+        "UN-M49-Numeric": "96"
+    },
+    {
+        "country": "Bulgaria",
+        "Alpha-2": "BG",
+        "Alpha-3": "BGR",
+        "UN-M49-Numeric": "100"
+    },
+    {
+        "country": "Burkina Faso",
+        "Alpha-2": "BF",
+        "Alpha-3": "BFA",
+        "UN-M49-Numeric": "854"
+    },
+    {
+        "country": "Burundi",
+        "Alpha-2": "BI",
+        "Alpha-3": "BDI",
+        "UN-M49-Numeric": "108"
+    },
+    {
+        "country": "Cambodia",
+        "Alpha-2": "KH",
+        "Alpha-3": "KHM",
+        "UN-M49-Numeric": "116"
+    },
+    {
+        "country": "Cameroon",
+        "Alpha-2": "CM",
+        "Alpha-3": "CMR",
+        "UN-M49-Numeric": "120"
+    },
+    {
+        "country": "Canada",
+        "Alpha-2": "CA",
+        "Alpha-3": "CAN",
+        "UN-M49-Numeric": "124"
+    },
+    {
+        "country": "Cape Verde",
+        "Alpha-2": "CV",
+        "Alpha-3": "CPV",
+        "UN-M49-Numeric": "132"
+    },
+    {
+        "country": "Cayman Islands",
+        "Alpha-2": "KY",
+        "Alpha-3": "CYM",
+        "UN-M49-Numeric": "136"
+    },
+    {
+        "country": "Central African Republic",
+        "Alpha-2": "CF",
+        "Alpha-3": "CAF",
+        "UN-M49-Numeric": "140"
+    },
+    {
+        "country": "Chad",
+        "Alpha-2": "TD",
+        "Alpha-3": "TCD",
+        "UN-M49-Numeric": "148"
+    },
+    {
+        "country": "Chile",
+        "Alpha-2": "CL",
+        "Alpha-3": "CHL",
+        "UN-M49-Numeric": "152"
+    },
+    {
+        "country": "China",
+        "Alpha-2": "CN",
+        "Alpha-3": "CHN",
+        "UN-M49-Numeric": "156"
+    },
+    {
+        "country": "Hong Kong, SAR China",
+        "Alpha-2": "HK",
+        "Alpha-3": "HKG",
+        "UN-M49-Numeric": "344"
+    },
+    {
+        "country": "Macao, SAR China",
+        "Alpha-2": "MO",
+        "Alpha-3": "MAC",
+        "UN-M49-Numeric": "446"
+    },
+    {
+        "country": "Christmas Island",
+        "Alpha-2": "CX",
+        "Alpha-3": "CXR",
+        "UN-M49-Numeric": "162"
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "Alpha-2": "CC",
+        "Alpha-3": "CCK",
+        "UN-M49-Numeric": "166"
+    },
+    {
+        "country": "Colombia",
+        "Alpha-2": "CO",
+        "Alpha-3": "COL",
+        "UN-M49-Numeric": "170"
+    },
+    {
+        "country": "Comoros",
+        "Alpha-2": "KM",
+        "Alpha-3": "COM",
+        "UN-M49-Numeric": "174"
+    },
+    {
+        "country": "Congo (Brazzaville)",
+        "Alpha-2": "CG",
+        "Alpha-3": "COG",
+        "UN-M49-Numeric": "178"
+    },
+    {
+        "country": "Congo, (Kinshasa)",
+        "Alpha-2": "CD",
+        "Alpha-3": "COD",
+        "UN-M49-Numeric": "180"
+    },
+    {
+        "country": "Cook Islands",
+        "Alpha-2": "CK",
+        "Alpha-3": "COK",
+        "UN-M49-Numeric": "184"
+    },
+    {
+        "country": "Costa Rica",
+        "Alpha-2": "CR",
+        "Alpha-3": "CRI",
+        "UN-M49-Numeric": "188"
+    },
+    {
+        "country": "Côte d'Ivoire",
+        "Alpha-2": "CI",
+        "Alpha-3": "CIV",
+        "UN-M49-Numeric": "384"
+    },
+    {
+        "country": "Croatia",
+        "Alpha-2": "HR",
+        "Alpha-3": "HRV",
+        "UN-M49-Numeric": "191"
+    },
+    {
+        "country": "Cuba",
+        "Alpha-2": "CU",
+        "Alpha-3": "CUB",
+        "UN-M49-Numeric": "192"
+    },
+    {
+        "country": "Cyprus",
+        "Alpha-2": "CY",
+        "Alpha-3": "CYP",
+        "UN-M49-Numeric": "196"
+    },
+    {
+        "country": "Czech Republic",
+        "Alpha-2": "CZ",
+        "Alpha-3": "CZE",
+        "UN-M49-Numeric": "203"
+    },
+    {
+        "country": "Denmark",
+        "Alpha-2": "DK",
+        "Alpha-3": "DNK",
+        "UN-M49-Numeric": "208"
+    },
+    {
+        "country": "Djibouti",
+        "Alpha-2": "DJ",
+        "Alpha-3": "DJI",
+        "UN-M49-Numeric": "262"
+    },
+    {
+        "country": "Dominica",
+        "Alpha-2": "DM",
+        "Alpha-3": "DMA",
+        "UN-M49-Numeric": "212"
+    },
+    {
+        "country": "Dominican Republic",
+        "Alpha-2": "DO",
+        "Alpha-3": "DOM",
+        "UN-M49-Numeric": "214"
+    },
+    {
+        "country": "Ecuador",
+        "Alpha-2": "EC",
+        "Alpha-3": "ECU",
+        "UN-M49-Numeric": "218"
+    },
+    {
+        "country": "Egypt",
+        "Alpha-2": "EG",
+        "Alpha-3": "EGY",
+        "UN-M49-Numeric": "818"
+    },
+    {
+        "country": "El Salvador",
+        "Alpha-2": "SV",
+        "Alpha-3": "SLV",
+        "UN-M49-Numeric": "222"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "Alpha-2": "GQ",
+        "Alpha-3": "GNQ",
+        "UN-M49-Numeric": "226"
+    },
+    {
+        "country": "Eritrea",
+        "Alpha-2": "ER",
+        "Alpha-3": "ERI",
+        "UN-M49-Numeric": "232"
+    },
+    {
+        "country": "Estonia",
+        "Alpha-2": "EE",
+        "Alpha-3": "EST",
+        "UN-M49-Numeric": "233"
+    },
+    {
+        "country": "Ethiopia",
+        "Alpha-2": "ET",
+        "Alpha-3": "ETH",
+        "UN-M49-Numeric": "231"
+    },
+    {
+        "country": "Falkland Islands (Malvinas)",
+        "Alpha-2": "FK",
+        "Alpha-3": "FLK",
+        "UN-M49-Numeric": "238"
+    },
+    {
+        "country": "Faroe Islands",
+        "Alpha-2": "FO",
+        "Alpha-3": "FRO",
+        "UN-M49-Numeric": "234"
+    },
+    {
+        "country": "Fiji",
+        "Alpha-2": "FJ",
+        "Alpha-3": "FJI",
+        "UN-M49-Numeric": "242"
+    },
+    {
+        "country": "Finland",
+        "Alpha-2": "FI",
+        "Alpha-3": "FIN",
+        "UN-M49-Numeric": "246"
+    },
+    {
+        "country": "France",
+        "Alpha-2": "FR",
+        "Alpha-3": "FRA",
+        "UN-M49-Numeric": "250"
+    },
+    {
+        "country": "French Guiana",
+        "Alpha-2": "GF",
+        "Alpha-3": "GUF",
+        "UN-M49-Numeric": "254"
+    },
+    {
+        "country": "French Polynesia",
+        "Alpha-2": "PF",
+        "Alpha-3": "PYF",
+        "UN-M49-Numeric": "258"
+    },
+    {
+        "country": "French Southern Territories",
+        "Alpha-2": "TF",
+        "Alpha-3": "ATF",
+        "UN-M49-Numeric": "260"
+    },
+    {
+        "country": "Gabon",
+        "Alpha-2": "GA",
+        "Alpha-3": "GAB",
+        "UN-M49-Numeric": "266"
+    },
+    {
+        "country": "Gambia",
+        "Alpha-2": "GM",
+        "Alpha-3": "GMB",
+        "UN-M49-Numeric": "270"
+    },
+    {
+        "country": "Georgia",
+        "Alpha-2": "GE",
+        "Alpha-3": "GEO",
+        "UN-M49-Numeric": "268"
+    },
+    {
+        "country": "Germany",
+        "Alpha-2": "DE",
+        "Alpha-3": "DEU",
+        "UN-M49-Numeric": "276"
+    },
+    {
+        "country": "Ghana",
+        "Alpha-2": "GH",
+        "Alpha-3": "GHA",
+        "UN-M49-Numeric": "288"
+    },
+    {
+        "country": "Gibraltar",
+        "Alpha-2": "GI",
+        "Alpha-3": "GIB",
+        "UN-M49-Numeric": "292"
+    },
+    {
+        "country": "Greece",
+        "Alpha-2": "GR",
+        "Alpha-3": "GRC",
+        "UN-M49-Numeric": "300"
+    },
+    {
+        "country": "Greenland",
+        "Alpha-2": "GL",
+        "Alpha-3": "GRL",
+        "UN-M49-Numeric": "304"
+    },
+    {
+        "country": "Grenada",
+        "Alpha-2": "GD",
+        "Alpha-3": "GRD",
+        "UN-M49-Numeric": "308"
+    },
+    {
+        "country": "Guadeloupe",
+        "Alpha-2": "GP",
+        "Alpha-3": "GLP",
+        "UN-M49-Numeric": "312"
+    },
+    {
+        "country": "Guam",
+        "Alpha-2": "GU",
+        "Alpha-3": "GUM",
+        "UN-M49-Numeric": "316"
+    },
+    {
+        "country": "Guatemala",
+        "Alpha-2": "GT",
+        "Alpha-3": "GTM",
+        "UN-M49-Numeric": "320"
+    },
+    {
+        "country": "Guernsey",
+        "Alpha-2": "GG",
+        "Alpha-3": "GGY",
+        "UN-M49-Numeric": "831"
+    },
+    {
+        "country": "Guinea",
+        "Alpha-2": "GN",
+        "Alpha-3": "GIN",
+        "UN-M49-Numeric": "324"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "Alpha-2": "GW",
+        "Alpha-3": "GNB",
+        "UN-M49-Numeric": "624"
+    },
+    {
+        "country": "Guyana",
+        "Alpha-2": "GY",
+        "Alpha-3": "GUY",
+        "UN-M49-Numeric": "328"
+    },
+    {
+        "country": "Haiti",
+        "Alpha-2": "HT",
+        "Alpha-3": "HTI",
+        "UN-M49-Numeric": "332"
+    },
+    {
+        "country": "Heard and Mcdonald Islands",
+        "Alpha-2": "HM",
+        "Alpha-3": "HMD",
+        "UN-M49-Numeric": "334"
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "Alpha-2": "VA",
+        "Alpha-3": "VAT",
+        "UN-M49-Numeric": "336"
+    },
+    {
+        "country": "Honduras",
+        "Alpha-2": "HN",
+        "Alpha-3": "HND",
+        "UN-M49-Numeric": "340"
+    },
+    {
+        "country": "Hungary",
+        "Alpha-2": "HU",
+        "Alpha-3": "HUN",
+        "UN-M49-Numeric": "348"
+    },
+    {
+        "country": "Iceland",
+        "Alpha-2": "IS",
+        "Alpha-3": "ISL",
+        "UN-M49-Numeric": "352"
+    },
+    {
+        "country": "India",
+        "Alpha-2": "IN",
+        "Alpha-3": "IND",
+        "UN-M49-Numeric": "356"
+    },
+    {
+        "country": "Indonesia",
+        "Alpha-2": "ID",
+        "Alpha-3": "IDN",
+        "UN-M49-Numeric": "360"
+    },
+    {
+        "country": "Iran, Islamic Republic of",
+        "Alpha-2": "IR",
+        "Alpha-3": "IRN",
+        "UN-M49-Numeric": "364"
+    },
+    {
+        "country": "Iraq",
+        "Alpha-2": "IQ",
+        "Alpha-3": "IRQ",
+        "UN-M49-Numeric": "368"
+    },
+    {
+        "country": "Ireland",
+        "Alpha-2": "IE",
+        "Alpha-3": "IRL",
+        "UN-M49-Numeric": "372"
+    },
+    {
+        "country": "Isle of Man",
+        "Alpha-2": "IM",
+        "Alpha-3": "IMN",
+        "UN-M49-Numeric": "833"
+    },
+    {
+        "country": "Israel",
+        "Alpha-2": "IL",
+        "Alpha-3": "ISR",
+        "UN-M49-Numeric": "376"
+    },
+    {
+        "country": "Italy",
+        "Alpha-2": "IT",
+        "Alpha-3": "ITA",
+        "UN-M49-Numeric": "380"
+    },
+    {
+        "country": "Jamaica",
+        "Alpha-2": "JM",
+        "Alpha-3": "JAM",
+        "UN-M49-Numeric": "388"
+    },
+    {
+        "country": "Japan",
+        "Alpha-2": "JP",
+        "Alpha-3": "JPN",
+        "UN-M49-Numeric": "392"
+    },
+    {
+        "country": "Jersey",
+        "Alpha-2": "JE",
+        "Alpha-3": "JEY",
+        "UN-M49-Numeric": "832"
+    },
+    {
+        "country": "Jordan",
+        "Alpha-2": "JO",
+        "Alpha-3": "JOR",
+        "UN-M49-Numeric": "400"
+    },
+    {
+        "country": "Kazakhstan",
+        "Alpha-2": "KZ",
+        "Alpha-3": "KAZ",
+        "UN-M49-Numeric": "398"
+    },
+    {
+        "country": "Kenya",
+        "Alpha-2": "KE",
+        "Alpha-3": "KEN",
+        "UN-M49-Numeric": "404"
+    },
+    {
+        "country": "Kiribati",
+        "Alpha-2": "KI",
+        "Alpha-3": "KIR",
+        "UN-M49-Numeric": "296"
+    },
+    {
+        "country": "Korea (North)",
+        "Alpha-2": "KP",
+        "Alpha-3": "PRK",
+        "UN-M49-Numeric": "408"
+    },
+    {
+        "country": "Korea (South)",
+        "Alpha-2": "KR",
+        "Alpha-3": "KOR",
+        "UN-M49-Numeric": "410"
+    },
+    {
+        "country": "Kuwait",
+        "Alpha-2": "KW",
+        "Alpha-3": "KWT",
+        "UN-M49-Numeric": "414"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "Alpha-2": "KG",
+        "Alpha-3": "KGZ",
+        "UN-M49-Numeric": "417"
+    },
+    {
+        "country": "Lao PDR",
+        "Alpha-2": "LA",
+        "Alpha-3": "LAO",
+        "UN-M49-Numeric": "418"
+    },
+    {
+        "country": "Latvia",
+        "Alpha-2": "LV",
+        "Alpha-3": "LVA",
+        "UN-M49-Numeric": "428"
+    },
+    {
+        "country": "Lebanon",
+        "Alpha-2": "LB",
+        "Alpha-3": "LBN",
+        "UN-M49-Numeric": "422"
+    },
+    {
+        "country": "Lesotho",
+        "Alpha-2": "LS",
+        "Alpha-3": "LSO",
+        "UN-M49-Numeric": "426"
+    },
+    {
+        "country": "Liberia",
+        "Alpha-2": "LR",
+        "Alpha-3": "LBR",
+        "UN-M49-Numeric": "430"
+    },
+    {
+        "country": "Libya",
+        "Alpha-2": "LY",
+        "Alpha-3": "LBY",
+        "UN-M49-Numeric": "434"
+    },
+    {
+        "country": "Liechtenstein",
+        "Alpha-2": "LI",
+        "Alpha-3": "LIE",
+        "UN-M49-Numeric": "438"
+    },
+    {
+        "country": "Lithuania",
+        "Alpha-2": "LT",
+        "Alpha-3": "LTU",
+        "UN-M49-Numeric": "440"
+    },
+    {
+        "country": "Luxembourg",
+        "Alpha-2": "LU",
+        "Alpha-3": "LUX",
+        "UN-M49-Numeric": "442"
+    },
+    {
+        "country": "Macedonia, Republic of",
+        "Alpha-2": "MK",
+        "Alpha-3": "MKD",
+        "UN-M49-Numeric": "807"
+    },
+    {
+        "country": "Madagascar",
+        "Alpha-2": "MG",
+        "Alpha-3": "MDG",
+        "UN-M49-Numeric": "450"
+    },
+    {
+        "country": "Malawi",
+        "Alpha-2": "MW",
+        "Alpha-3": "MWI",
+        "UN-M49-Numeric": "454"
+    },
+    {
+        "country": "Malaysia",
+        "Alpha-2": "MY",
+        "Alpha-3": "MYS",
+        "UN-M49-Numeric": "458"
+    },
+    {
+        "country": "Maldives",
+        "Alpha-2": "MV",
+        "Alpha-3": "MDV",
+        "UN-M49-Numeric": "462"
+    },
+    {
+        "country": "Mali",
+        "Alpha-2": "ML",
+        "Alpha-3": "MLI",
+        "UN-M49-Numeric": "466"
+    },
+    {
+        "country": "Malta",
+        "Alpha-2": "MT",
+        "Alpha-3": "MLT",
+        "UN-M49-Numeric": "470"
+    },
+    {
+        "country": "Marshall Islands",
+        "Alpha-2": "MH",
+        "Alpha-3": "MHL",
+        "UN-M49-Numeric": "584"
+    },
+    {
+        "country": "Martinique",
+        "Alpha-2": "MQ",
+        "Alpha-3": "MTQ",
+        "UN-M49-Numeric": "474"
+    },
+    {
+        "country": "Mauritania",
+        "Alpha-2": "MR",
+        "Alpha-3": "MRT",
+        "UN-M49-Numeric": "478"
+    },
+    {
+        "country": "Mauritius",
+        "Alpha-2": "MU",
+        "Alpha-3": "MUS",
+        "UN-M49-Numeric": "480"
+    },
+    {
+        "country": "Mayotte",
+        "Alpha-2": "YT",
+        "Alpha-3": "MYT",
+        "UN-M49-Numeric": "175"
+    },
+    {
+        "country": "Mexico",
+        "Alpha-2": "MX",
+        "Alpha-3": "MEX",
+        "UN-M49-Numeric": "484"
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "Alpha-2": "FM",
+        "Alpha-3": "FSM",
+        "UN-M49-Numeric": "583"
+    },
+    {
+        "country": "Moldova",
+        "Alpha-2": "MD",
+        "Alpha-3": "MDA",
+        "UN-M49-Numeric": "498"
+    },
+    {
+        "country": "Monaco",
+        "Alpha-2": "MC",
+        "Alpha-3": "MCO",
+        "UN-M49-Numeric": "492"
+    },
+    {
+        "country": "Mongolia",
+        "Alpha-2": "MN",
+        "Alpha-3": "MNG",
+        "UN-M49-Numeric": "496"
+    },
+    {
+        "country": "Montenegro",
+        "Alpha-2": "ME",
+        "Alpha-3": "MNE",
+        "UN-M49-Numeric": "499"
+    },
+    {
+        "country": "Montserrat",
+        "Alpha-2": "MS",
+        "Alpha-3": "MSR",
+        "UN-M49-Numeric": "500"
+    },
+    {
+        "country": "Morocco",
+        "Alpha-2": "MA",
+        "Alpha-3": "MAR",
+        "UN-M49-Numeric": "504"
+    },
+    {
+        "country": "Mozambique",
+        "Alpha-2": "MZ",
+        "Alpha-3": "MOZ",
+        "UN-M49-Numeric": "508"
+    },
+    {
+        "country": "Myanmar",
+        "Alpha-2": "MM",
+        "Alpha-3": "MMR",
+        "UN-M49-Numeric": "104"
+    },
+    {
+        "country": "Namibia",
+        "Alpha-2": "NA",
+        "Alpha-3": "NAM",
+        "UN-M49-Numeric": "516"
+    },
+    {
+        "country": "Nauru",
+        "Alpha-2": "NR",
+        "Alpha-3": "NRU",
+        "UN-M49-Numeric": "520"
+    },
+    {
+        "country": "Nepal",
+        "Alpha-2": "NP",
+        "Alpha-3": "NPL",
+        "UN-M49-Numeric": "524"
+    },
+    {
+        "country": "Netherlands",
+        "Alpha-2": "NL",
+        "Alpha-3": "NLD",
+        "UN-M49-Numeric": "528"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "Alpha-2": "AN",
+        "Alpha-3": "ANT",
+        "UN-M49-Numeric": "530"
+    },
+    {
+        "country": "New Caledonia",
+        "Alpha-2": "NC",
+        "Alpha-3": "NCL",
+        "UN-M49-Numeric": "540"
+    },
+    {
+        "country": "New Zealand",
+        "Alpha-2": "NZ",
+        "Alpha-3": "NZL",
+        "UN-M49-Numeric": "554"
+    },
+    {
+        "country": "Nicaragua",
+        "Alpha-2": "NI",
+        "Alpha-3": "NIC",
+        "UN-M49-Numeric": "558"
+    },
+    {
+        "country": "Niger",
+        "Alpha-2": "NE",
+        "Alpha-3": "NER",
+        "UN-M49-Numeric": "562"
+    },
+    {
+        "country": "Nigeria",
+        "Alpha-2": "NG",
+        "Alpha-3": "NGA",
+        "UN-M49-Numeric": "566"
+    },
+    {
+        "country": "Niue",
+        "Alpha-2": "NU",
+        "Alpha-3": "NIU",
+        "UN-M49-Numeric": "570"
+    },
+    {
+        "country": "Norfolk Island",
+        "Alpha-2": "NF",
+        "Alpha-3": "NFK",
+        "UN-M49-Numeric": "574"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "Alpha-2": "MP",
+        "Alpha-3": "MNP",
+        "UN-M49-Numeric": "580"
+    },
+    {
+        "country": "Norway",
+        "Alpha-2": "NO",
+        "Alpha-3": "NOR",
+        "UN-M49-Numeric": "578"
+    },
+    {
+        "country": "Oman",
+        "Alpha-2": "OM",
+        "Alpha-3": "OMN",
+        "UN-M49-Numeric": "512"
+    },
+    {
+        "country": "Pakistan",
+        "Alpha-2": "PK",
+        "Alpha-3": "PAK",
+        "UN-M49-Numeric": "586"
+    },
+    {
+        "country": "Palau",
+        "Alpha-2": "PW",
+        "Alpha-3": "PLW",
+        "UN-M49-Numeric": "585"
+    },
+    {
+        "country": "Palestinian Territory",
+        "Alpha-2": "PS",
+        "Alpha-3": "PSE",
+        "UN-M49-Numeric": "275"
+    },
+    {
+        "country": "Panama",
+        "Alpha-2": "PA",
+        "Alpha-3": "PAN",
+        "UN-M49-Numeric": "591"
+    },
+    {
+        "country": "Papua New Guinea",
+        "Alpha-2": "PG",
+        "Alpha-3": "PNG",
+        "UN-M49-Numeric": "598"
+    },
+    {
+        "country": "Paraguay",
+        "Alpha-2": "PY",
+        "Alpha-3": "PRY",
+        "UN-M49-Numeric": "600"
+    },
+    {
+        "country": "Peru",
+        "Alpha-2": "PE",
+        "Alpha-3": "PER",
+        "UN-M49-Numeric": "604"
+    },
+    {
+        "country": "Philippines",
+        "Alpha-2": "PH",
+        "Alpha-3": "PHL",
+        "UN-M49-Numeric": "608"
+    },
+    {
+        "country": "Pitcairn",
+        "Alpha-2": "PN",
+        "Alpha-3": "PCN",
+        "UN-M49-Numeric": "612"
+    },
+    {
+        "country": "Poland",
+        "Alpha-2": "PL",
+        "Alpha-3": "POL",
+        "UN-M49-Numeric": "616"
+    },
+    {
+        "country": "Portugal",
+        "Alpha-2": "PT",
+        "Alpha-3": "PRT",
+        "UN-M49-Numeric": "620"
+    },
+    {
+        "country": "Puerto Rico",
+        "Alpha-2": "PR",
+        "Alpha-3": "PRI",
+        "UN-M49-Numeric": "630"
+    },
+    {
+        "country": "Qatar",
+        "Alpha-2": "QA",
+        "Alpha-3": "QAT",
+        "UN-M49-Numeric": "634"
+    },
+    {
+        "country": "Réunion",
+        "Alpha-2": "RE",
+        "Alpha-3": "REU",
+        "UN-M49-Numeric": "638"
+    },
+    {
+        "country": "Romania",
+        "Alpha-2": "RO",
+        "Alpha-3": "ROU",
+        "UN-M49-Numeric": "642"
+    },
+    {
+        "country": "Russian Federation",
+        "Alpha-2": "RU",
+        "Alpha-3": "RUS",
+        "UN-M49-Numeric": "643"
+    },
+    {
+        "country": "Rwanda",
+        "Alpha-2": "RW",
+        "Alpha-3": "RWA",
+        "UN-M49-Numeric": "646"
+    },
+    {
+        "country": "Saint-Barthélemy",
+        "Alpha-2": "BL",
+        "Alpha-3": "BLM",
+        "UN-M49-Numeric": "652"
+    },
+    {
+        "country": "Saint Helena",
+        "Alpha-2": "SH",
+        "Alpha-3": "SHN",
+        "UN-M49-Numeric": "654"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "Alpha-2": "KN",
+        "Alpha-3": "KNA",
+        "UN-M49-Numeric": "659"
+    },
+    {
+        "country": "Saint Lucia",
+        "Alpha-2": "LC",
+        "Alpha-3": "LCA",
+        "UN-M49-Numeric": "662"
+    },
+    {
+        "country": "Saint-Martin (French part)",
+        "Alpha-2": "MF",
+        "Alpha-3": "MAF",
+        "UN-M49-Numeric": "663"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "Alpha-2": "PM",
+        "Alpha-3": "SPM",
+        "UN-M49-Numeric": "666"
+    },
+    {
+        "country": "Saint Vincent and Grenadines",
+        "Alpha-2": "VC",
+        "Alpha-3": "VCT",
+        "UN-M49-Numeric": "670"
+    },
+    {
+        "country": "Samoa",
+        "Alpha-2": "WS",
+        "Alpha-3": "WSM",
+        "UN-M49-Numeric": "882"
+    },
+    {
+        "country": "San Marino",
+        "Alpha-2": "SM",
+        "Alpha-3": "SMR",
+        "UN-M49-Numeric": "674"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "Alpha-2": "ST",
+        "Alpha-3": "STP",
+        "UN-M49-Numeric": "678"
+    },
+    {
+        "country": "Saudi Arabia",
+        "Alpha-2": "SA",
+        "Alpha-3": "SAU",
+        "UN-M49-Numeric": "682"
+    },
+    {
+        "country": "Senegal",
+        "Alpha-2": "SN",
+        "Alpha-3": "SEN",
+        "UN-M49-Numeric": "686"
+    },
+    {
+        "country": "Serbia",
+        "Alpha-2": "RS",
+        "Alpha-3": "SRB",
+        "UN-M49-Numeric": "688"
+    },
+    {
+        "country": "Seychelles",
+        "Alpha-2": "SC",
+        "Alpha-3": "SYC",
+        "UN-M49-Numeric": "690"
+    },
+    {
+        "country": "Sierra Leone",
+        "Alpha-2": "SL",
+        "Alpha-3": "SLE",
+        "UN-M49-Numeric": "694"
+    },
+    {
+        "country": "Singapore",
+        "Alpha-2": "SG",
+        "Alpha-3": "SGP",
+        "UN-M49-Numeric": "702"
+    },
+    {
+        "country": "Slovakia",
+        "Alpha-2": "SK",
+        "Alpha-3": "SVK",
+        "UN-M49-Numeric": "703"
+    },
+    {
+        "country": "Slovenia",
+        "Alpha-2": "SI",
+        "Alpha-3": "SVN",
+        "UN-M49-Numeric": "705"
+    },
+    {
+        "country": "Solomon Islands",
+        "Alpha-2": "SB",
+        "Alpha-3": "SLB",
+        "UN-M49-Numeric": "90"
+    },
+    {
+        "country": "Somalia",
+        "Alpha-2": "SO",
+        "Alpha-3": "SOM",
+        "UN-M49-Numeric": "706"
+    },
+    {
+        "country": "South Africa",
+        "Alpha-2": "ZA",
+        "Alpha-3": "ZAF",
+        "UN-M49-Numeric": "710"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "Alpha-2": "GS",
+        "Alpha-3": "SGS",
+        "UN-M49-Numeric": "239"
+    },
+    {
+        "country": "South Sudan",
+        "Alpha-2": "SS",
+        "Alpha-3": "SSD",
+        "UN-M49-Numeric": "728"
+    },
+    {
+        "country": "Spain",
+        "Alpha-2": "ES",
+        "Alpha-3": "ESP",
+        "UN-M49-Numeric": "724"
+    },
+    {
+        "country": "Sri Lanka",
+        "Alpha-2": "LK",
+        "Alpha-3": "LKA",
+        "UN-M49-Numeric": "144"
+    },
+    {
+        "country": "Sudan",
+        "Alpha-2": "SD",
+        "Alpha-3": "SDN",
+        "UN-M49-Numeric": "736"
+    },
+    {
+        "country": "Suriname",
+        "Alpha-2": "SR",
+        "Alpha-3": "SUR",
+        "UN-M49-Numeric": "740"
+    },
+    {
+        "country": "Svalbard and Jan Mayen Islands",
+        "Alpha-2": "SJ",
+        "Alpha-3": "SJM",
+        "UN-M49-Numeric": "744"
+    },
+    {
+        "country": "Swaziland",
+        "Alpha-2": "SZ",
+        "Alpha-3": "SWZ",
+        "UN-M49-Numeric": "748"
+    },
+    {
+        "country": "Sweden",
+        "Alpha-2": "SE",
+        "Alpha-3": "SWE",
+        "UN-M49-Numeric": "752"
+    },
+    {
+        "country": "Switzerland",
+        "Alpha-2": "CH",
+        "Alpha-3": "CHE",
+        "UN-M49-Numeric": "756"
+    },
+    {
+        "country": "Syrian Arab Republic (Syria)",
+        "Alpha-2": "SY",
+        "Alpha-3": "SYR",
+        "UN-M49-Numeric": "760"
+    },
+    {
+        "country": "Taiwan, Republic of China",
+        "Alpha-2": "TW",
+        "Alpha-3": "TWN",
+        "UN-M49-Numeric": "158"
+    },
+    {
+        "country": "Tajikistan",
+        "Alpha-2": "TJ",
+        "Alpha-3": "TJK",
+        "UN-M49-Numeric": "762"
+    },
+    {
+        "country": "Tanzania, United Republic of",
+        "Alpha-2": "TZ",
+        "Alpha-3": "TZA",
+        "UN-M49-Numeric": "834"
+    },
+    {
+        "country": "Thailand",
+        "Alpha-2": "TH",
+        "Alpha-3": "THA",
+        "UN-M49-Numeric": "764"
+    },
+    {
+        "country": "Timor-Leste",
+        "Alpha-2": "TL",
+        "Alpha-3": "TLS",
+        "UN-M49-Numeric": "626"
+    },
+    {
+        "country": "Togo",
+        "Alpha-2": "TG",
+        "Alpha-3": "TGO",
+        "UN-M49-Numeric": "768"
+    },
+    {
+        "country": "Tokelau",
+        "Alpha-2": "TK",
+        "Alpha-3": "TKL",
+        "UN-M49-Numeric": "772"
+    },
+    {
+        "country": "Tonga",
+        "Alpha-2": "TO",
+        "Alpha-3": "TON",
+        "UN-M49-Numeric": "776"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "Alpha-2": "TT",
+        "Alpha-3": "TTO",
+        "UN-M49-Numeric": "780"
+    },
+    {
+        "country": "Tunisia",
+        "Alpha-2": "TN",
+        "Alpha-3": "TUN",
+        "UN-M49-Numeric": "788"
+    },
+    {
+        "country": "Turkey",
+        "Alpha-2": "TR",
+        "Alpha-3": "TUR",
+        "UN-M49-Numeric": "792"
+    },
+    {
+        "country": "Turkmenistan",
+        "Alpha-2": "TM",
+        "Alpha-3": "TKM",
+        "UN-M49-Numeric": "795"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "Alpha-2": "TC",
+        "Alpha-3": "TCA",
+        "UN-M49-Numeric": "796"
+    },
+    {
+        "country": "Tuvalu",
+        "Alpha-2": "TV",
+        "Alpha-3": "TUV",
+        "UN-M49-Numeric": "798"
+    },
+    {
+        "country": "Uganda",
+        "Alpha-2": "UG",
+        "Alpha-3": "UGA",
+        "UN-M49-Numeric": "800"
+    },
+    {
+        "country": "Ukraine",
+        "Alpha-2": "UA",
+        "Alpha-3": "UKR",
+        "UN-M49-Numeric": "804"
+    },
+    {
+        "country": "United Arab Emirates",
+        "Alpha-2": "AE",
+        "Alpha-3": "ARE",
+        "UN-M49-Numeric": "784"
+    },
+    {
+        "country": "United Kingdom",
+        "Alpha-2": "GB",
+        "Alpha-3": "GBR",
+        "UN-M49-Numeric": "826"
+    },
+    {
+        "country": "United States of America",
+        "Alpha-2": "US",
+        "Alpha-3": "USA",
+        "UN-M49-Numeric": "840"
+    },
+    {
+        "country": "US Minor Outlying Islands",
+        "Alpha-2": "UM",
+        "Alpha-3": "UMI",
+        "UN-M49-Numeric": "581"
+    },
+    {
+        "country": "Uruguay",
+        "Alpha-2": "UY",
+        "Alpha-3": "URY",
+        "UN-M49-Numeric": "858"
+    },
+    {
+        "country": "Uzbekistan",
+        "Alpha-2": "UZ",
+        "Alpha-3": "UZB",
+        "UN-M49-Numeric": "860"
+    },
+    {
+        "country": "Vanuatu",
+        "Alpha-2": "VU",
+        "Alpha-3": "VUT",
+        "UN-M49-Numeric": "548"
+    },
+    {
+        "country": "Venezuela (Bolivarian Republic)",
+        "Alpha-2": "VE",
+        "Alpha-3": "VEN",
+        "UN-M49-Numeric": "862"
+    },
+    {
+        "country": "Viet Nam",
+        "Alpha-2": "VN",
+        "Alpha-3": "VNM",
+        "UN-M49-Numeric": "704"
+    },
+    {
+        "country": "Virgin Islands, US",
+        "Alpha-2": "VI",
+        "Alpha-3": "VIR",
+        "UN-M49-Numeric": "850"
+    },
+    {
+        "country": "Wallis and Futuna Islands",
+        "Alpha-2": "WF",
+        "Alpha-3": "WLF",
+        "UN-M49-Numeric": "876"
+    },
+    {
+        "country": "Western Sahara",
+        "Alpha-2": "EH",
+        "Alpha-3": "ESH",
+        "UN-M49-Numeric": "732"
+    },
+    {
+        "country": "Yemen",
+        "Alpha-2": "YE",
+        "Alpha-3": "YEM",
+        "UN-M49-Numeric": "887"
+    },
+    {
+        "country": "Zambia",
+        "Alpha-2": "ZM",
+        "Alpha-3": "ZMB",
+        "UN-M49-Numeric": "894"
+    },
+    {
+        "country": "Zimbabwe",
+        "Alpha-2": "ZW",
+        "Alpha-3": "ZWE",
+        "UN-M49-Numeric": "716"
+    }
+]
